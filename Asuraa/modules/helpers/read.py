@@ -11,7 +11,7 @@ TOOLS_DATA_READ = f"""
 ๏ **ʜᴇʀᴇ ɪs ᴛᴏᴏʟs ғᴏʀ {BOT_NAME} ! \n\n๏ ᴜsᴇ /repo ɢᴇᴛᴛɪɴɢ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ. \n\n๏ ᴜsᴇ /ping ᴄʜᴇᴄᴋɪɴɢ ғᴏʀ ᴘɪɴɢ.\n\n๏ ᴜsᴇ /id ɢᴇᴛᴛɪɴɢ ʏᴏᴜʀ ᴄʜᴀᴛ ɪᴅ ᴀɴᴅ ᴜsᴇʀ ɪᴅ ᴏʀ ᴍᴇssᴀɢᴇ ɪᴅ."""
 
 CHATBOT_READ = f"""
-๏** ᴄᴏᴍᴍᴀɴᴅ ғᴏʀ {BOT_NAME} !\n\n๏ ᴜsᴇ /chatbot ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ .\n\n๏ ᴍᴀᴅᴇ ʙʏ ➛ [ɢᴏᴅ ʀᴀᴠᴀɴ](https://t.me/God_Ravana)**"""
+๏** ᴄᴏᴍᴍᴀɴᴅ ғᴏʀ {BOT_NAME} !\n\n๏ ᴜsᴇ /chatbot ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ .\n\n๏ ᴍᴀᴅᴇ ʙʏ ➛ [ɢᴏᴅ ʀᴀᴠᴀɴ](https://t.me/+Gl31EbbLir01M2M9)**"""
 
 SOURCE_READ = f"**๏ Repo on Telegram Channel.\n\n@God_Ravana** "
 
